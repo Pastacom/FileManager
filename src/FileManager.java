@@ -10,7 +10,7 @@ public class FileManager {
     private final Path rootPath;
     // Последовательность объединения файлов.
     private final List<Path> fileSequence;
-    // Посещенные файлы. Используем Set, для проверки на наличие за log2(n).
+    // Посещенные файлы. Используем Set, для проверки на наличие за O(1).
     private final Set<Path> visitedFiles;
 
     /*
