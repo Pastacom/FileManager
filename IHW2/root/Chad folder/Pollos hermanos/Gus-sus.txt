@@ -1,5 +1,0 @@
-Welcome to pollos hermanos.
-My name is Gustavo, but u can call me sus.
-
-require cringe.txt
-
